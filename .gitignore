@@ -9,3 +9,6 @@ node_modules/
 
 # Ignore config files with secrets
 config.secret
+
+# Ignore env files
+.env
