@@ -1,5 +1,5 @@
 #!/bin/bash
 
-SUM=$((10+20))
+SUM=$((5+3))
 
 echo "result: $SUM"
