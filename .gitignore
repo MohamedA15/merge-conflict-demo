@@ -12,3 +12,4 @@ config.secret
 
 # Ignore env files
 .env
+l.com
